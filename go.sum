@@ -1,0 +1,4 @@
+github.com/golang-jwt/jwt/v5 v5.2.2 h1:Rl4B7itRWVtYIHFrSNd7vhTiz9UpLdi6gZhZ3wEeDy8=
+github.com/golang-jwt/jwt/v5 v5.2.2/go.mod h1:pqrtFR0X4osieyHYxtmOUWsAWrfe1Q5UVIyoH402zdk=
+snai.pe/go-htutil v0.0.0-20220706173936-b7f7873282e4 h1:y1k2c6u3svk9BgokpNML4KVXRizviMnHOOtWwv18Dv0=
+snai.pe/go-htutil v0.0.0-20220706173936-b7f7873282e4/go.mod h1:Hzhom+bSoc0VLdJWBoyGZ1k5NUF5442CyUHULKxpTw0=
